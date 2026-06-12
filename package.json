@@ -2,6 +2,14 @@
   "name": "bk24v7x703_luuminhthong_backend_1",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/thongbk24v7x703-hub/BK24V7X703_LuuMinhThong_Backend_1#readme",
+  "bugs": {
+    "url": "https://github.com/thongbk24v7x703-hub/BK24V7X703_LuuMinhThong_Backend_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thongbk24v7x703-hub/BK24V7X703_LuuMinhThong_Backend_1.git"
+  },
   "license": "ISC",
   "author": "Luu Minh Thong",
   "type": "commonjs",
@@ -12,5 +20,10 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.4.1",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.4"
   }
 }
